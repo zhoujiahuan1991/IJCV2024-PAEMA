@@ -78,3 +78,6 @@ If you find this work helpful, please cite:
 ## Acknowledgement
 Our code is based on [PatchKD](https://github.com/feifeiobama/PatchKD), [PTKP](https://github.com/g3956/PTKP) and [DKP](https://github.com/zhoujiahuan1991/CVPR2024-DKP).
 
+## Contact
+
+Welcome to our Laboratory Homepage ([OV<sup>3</sup> Lab](https://zhoujiahuan1991.github.io/)) for more information about our papers, source codes, and datasets.
