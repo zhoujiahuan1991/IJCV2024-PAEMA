@@ -1,5 +1,7 @@
 # [IJCV2024] Exemplar-Free Lifelong Person Re-identification via Prompt-Guided Adaptive Knowledge Consolidation
-
+<p align="center">
+<a href="https://github.com/zhoujiahuan1991/IJCV2024-PAEMA"><img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fzhoujiahuan1991%2FIJCV2024-PAEMA&label=PAEMA&icon=github&color=%233d8bfd"></a>
+</p>
 Official implementation of "[Exemplar-Free Lifelong Person Re-identification via Prompt-Guided Adaptive Knowledge Consolidation](https://link.springer.com/article/10.1007/s11263-024-02110-x)"
 
 
